@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wprowadzenie1P</string>
+    <string name="polecenie">Finde Sie bitte</string>
+    <string name="dobrze">Ja</string>
+    <string name="zle">Nein</string>
+</resources>
